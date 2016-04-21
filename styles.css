@@ -19,7 +19,7 @@
 }
 
 @keyframes tilt {
-    50% {
+    75% {
         transform: rotate(-15deg);
     }
 }
